@@ -1,0 +1,85 @@
+{
+    "name": "Shell",
+    "description(exclude)": "New Command Shell — Site Polaris",
+
+    "ServerScriptService": {
+        "Shell": {
+            "$className": "Folder",
+            "ShellMain": "Script",
+            "CommandRegistry": "ModuleScript",
+            "Auth": "ModuleScript",
+            "Commands": "ModuleScript",
+            "Configs": {
+                "$className": "Configuration",
+                "Attributes": {
+                    "Prefix": "string"
+                }
+            }
+        }
+    },
+
+    "ReplicatedStorage": {
+        "Shell": {
+            "$className": "Folder",
+            "Parser": "ModuleScript",
+            "RemoteEvents": {
+                "$className": "Folder",
+                "ShellRequest":  "RemoteEvent",
+                "ShellResponse": "RemoteEvent"
+            }
+        }
+    },
+
+    "StarterGui": {
+        "Shell": {
+            "$className": "ScreenGui",
+            "ResetOnSpawn": false,
+            "Enabled": false,
+
+            "ShellClient": {
+                "$className": "LocalScript",
+                "ClientCommands": "ModuleScript"
+            },
+
+            "Container": {
+                "$className": "Frame",
+
+                "OutputPane": {
+                    "$className": "Frame",
+                    "Log": {
+                        "$className": "ScrollingFrame",
+                        "UIListLayout": "UIListLayout",
+                        "UIPadding": "UIPadding"
+                    },
+                    "EntryAsset": {
+                        "$className": "TextLabel",
+                        "desc": "template — clone per output line, set .Text and .TextColor3"
+                    }
+                },
+
+                "AutocompletePane": {
+                    "$className": "Frame",
+                    "Visible": false,
+                    "List": {
+                        "$className": "ScrollingFrame",
+                        "UIListLayout": "UIListLayout",
+                        "UIPadding": "UIPadding"
+                    },
+                    "EntryAsset": {
+                        "$className": "Frame",
+                        "desc": "template — clone per matching command",
+                        "CommandLabel": "TextLabel",
+                        "DescLabel": "TextLabel",
+                        "AuthBadge": "TextLabel"
+                    }
+                },
+
+                "InputBar": {
+                    "$className": "Frame",
+                    "Caret": "TextLabel",
+                    "Input":  "TextBox"
+                }
+            }
+        }
+    }
+}
