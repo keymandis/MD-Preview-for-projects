@@ -1,1 +1,92 @@
-# SCP Foundation Operational Document\n## EVENT SPECIFICATION: A Chaotic Distraction\n**SECURITY CLEARANCE LEVEL 3/GENERAL ACCESSIBILITY**\n\n---\n\n### GENERAL CONFIGURATION\n* **EVENT NAME:** A Chaotic Distraction\n* **CLASSIFICATION:** TYPE: MINOR – CONTAINMENT BREACH\n* **PARTICIPANTS:** *Uprising Class-D Personnel, Facility Security Department (FSD), Chaos Insurgency (CI) Infiltration Cell (Limited Deployment)*\n\n---\n\n### SPECIAL OPERATIONAL FEATURES\n\n#### 1. SCP BREACH EVENT\n* **Mechanism:** One (1) randomized anomalous entity (SCP classification) undergoes a containment failure and escapes its primary containment cell at the onset of the operation.\n* **Facility Security Directives:** Must prioritize tracking, isolation, and recontainment protocols for the active entity.\n* **Chaos Insurgency Directives:** Authorized to weaponize the breached anomaly or exploit the resulting tactical confusion to distract and divide Foundation security response forces.\n\n#### 2. A.R.I.A SURVEILLANCE SUPPORT\n* **Facility Security Rights:** Granted temporary, high-priority operational access to the Advanced Reconnaissance and Information Archive (A.R.I.A) surveillance matrix, enabling real-time SCP movement tracking.\n* **Vulnerability:** Chaos Insurgency operatives retain the ability to partially disable, distort, or blind these tracking vectors by successfully executing specialized hacking objectives throughout the facility.\n\n---\n\n### OVERVIEW\nA coordinated internal uprising occurs inside **Site Polaris** after multiple Class-D containment doors are remotely unlocked through a sophisticated external sabotage attempt. While the Facility Security Department struggles to suppress the escalating riot and recontain a breached SCP, Chaos Insurgency operatives infiltrate the site via deep maintenance tunnels to extract escaping Class-D personnel and further destabilize local Foundation infrastructure.\n\nThe core operational focus of this engagement centers on **divided attention, immense pressure buildup, and rapidly escalating containment degradation**.\n\n---\n\n### FACTION OBJECTIVES & MECHANICS\n\n#### I. CLASS-D PERSONNEL\nAll Class-D sector containment doors are automatically unlocked at the exact commencement of the event.\n\n* **Initial Loadout & Modifiers:**\n    * `[Weapon]` Homemade Knife\n    * `[Buff]` +5% Baseline Movement Speed Increase\n* **Primary Objectives:**\n    1. Overwhelm active Facility Security personnel through sheer numbers or synchronized ambushes.\n    2. Cause widespread structural and operational disruption inside the facility.\n    3. Navigate to and escape through designated Chaos Insurgency extraction corridors.\n    4. Provide tactical assistance to Chaos Insurgency operatives during their infiltration.\n* **Operational Mechanics:**\n    * **Permadeath Asset Loss:** The Homemade Knife is permanently removed from the user's inventory upon death.\n    * **Faction Conversion:** Extracted Class-D personnel are immediately processed and converted into active Chaos Insurgency recruits.\n    * **Ticket Legacy:** Converted escapees inherit any remaining deployment tickets from the Chaos Insurgency pool.\n* **Mission Rewards:**\n    * Flat **+50% Experience Points (EXP)** payout during the active event.\n    * Substantial additional EXP bounty granted upon successful extraction to the surface.\n\n#### II. FACILITY SECURITY DEPARTMENT\nThe Facility Security Department is immediately deployed and authorized to utilize lethal force to suppress the internal uprising and stabilize Site Polaris before containment conditions reach critical failure.\n\n* **Authorized Equipment:**\n    * Standard-Issue Riot Suppression Loadout\n    * A.R.I.A Mobile GPS Tracking Unit\n* **Primary Objectives:**\n    1. Eliminate all hostile, non-compliant Class-D personnel.\n    2. Neutralize all invading Chaos Insurgency infiltrators.\n    3. Locate, suppress, and successfully recontain the escaped SCP entity.\n    4. Restore complete operational order to Site Polaris.\n* **Operational Mechanics:**\n    * The specialized A.R.I.A GPS tracking device links directly into the facility's active surveillance node, allowing security elements to pinpoint and navigate toward the escaped SCP efficiently.\n* **Victory Conditions:**\n    * The active SCP is successfully secured and returned to containment **AND** the internal riot is fully suppressed **AND** all Chaos Insurgency elements are eliminated.\n* **Mission Rewards:**\n    * Large standard paycheck payout.\n    * Significant bonus EXP dividend awarded specifically for a successful SCP recontainment.\n\n#### III. CHAOS INSURGENCY\nChaos Insurgency shock teams deploy externally from a concealed Arctic observation outpost linked directly to the lower sub-levels of Site Polaris via abandoned geothermal and utility maintenance tunnels.\n\n* **Deployment Configuration:**\n    * Operating under a strict, limited reinforcement pool scaling between **10 to 30 deployment tickets** depending on operational scaling.\n    * Each operative death consumes exactly one (1) deployment ticket.\n    * **Critical Threshold:** Once all deployment tickets are completely exhausted, Chaos operatives lose respawn capabilities. Converted Class-D personnel also lose respawn rights upon ticket depletion.\n* **Primary Objectives:**\n    1. Infiltrate Site Polaris via the subterranean maintenance tunnel access points.\n    2. Hack and compromise designated Foundation network sub-systems.\n    3. Trigger selective, secondary SCP containment failures to amplify tactical chaos.\n    4. Escort escaping Class-D personnel safely out of the hot zone to extraction points.\n    5. Convert successfully extracted Class-D personnel into active Insurgency combat assets.\n* **Mission Rewards:**\n    * Increased EXP yields for successful extraction assistance.\n    * Bonus operational rewards for successfully enabling or accelerating SCP breach events.\n    * Additional financial/resource payout proportional to the total count of successfully converted Class-D personnel.
+# SCP Foundation Operational Document
+## EVENT SPECIFICATION: A Chaotic Distraction
+**SECURITY CLEARANCE LEVEL 3/GENERAL ACCESSIBILITY**
+
+---
+
+### GENERAL CONFIGURATION
+* **EVENT NAME:** A Chaotic Distraction
+* **CLASSIFICATION:** TYPE: MINOR – CONTAINMENT BREACH
+* **PARTICIPANTS:** * Uprising Class-D Personnel
+    * Facility Security Department (FSD)
+    * Chaos Insurgency (CI) Infiltration Cell *[Limited Deployment]*
+
+---
+
+### SPECIAL OPERATIONAL FEATURES
+
+#### 1. SCP BREACH EVENT
+* **Mechanism:** One (1) randomized anomalous entity (SCP classification) undergoes a containment failure and escapes its primary containment cell at the onset of the operation.
+* **Facility Security Directives:** Must prioritize tracking, isolation, and recontainment protocols for the active entity.
+* **Chaos Insurgency Directives:** Authorized to weaponize the breached anomaly or exploit the resulting tactical confusion to distract and divide Foundation security response forces.
+
+#### 2. A.R.I.A SURVEILLANCE SUPPORT
+* **Facility Security Rights:** Granted temporary, high-priority operational access to the Advanced Reconnaissance and Information Archive (A.R.I.A) surveillance matrix, enabling real-time SCP movement tracking.
+* **Vulnerability:** Chaos Insurgency operatives retain the ability to partially disable, distort, or blind these tracking vectors by successfully executing specialized hacking objectives throughout the facility.
+
+---
+
+### OVERVIEW
+A coordinated internal uprising occurs inside **Site Polaris** after multiple Class-D containment doors are remotely unlocked through a sophisticated external sabotage attempt. While the Facility Security Department struggles to suppress the escalating riot and recontain a breached SCP, Chaos Insurgency operatives infiltrate the site via deep maintenance tunnels to extract escaping Class-D personnel and further destabilize local Foundation infrastructure.
+
+The core operational focus of this engagement centers on **divided attention, immense pressure buildup, and rapidly escalating containment degradation**.
+
+---
+
+### FACTION OBJECTIVES & MECHANICS
+
+#### Ⅰ. CLASS-D PERSONNEL
+All Class-D sector containment doors are automatically unlocked at the exact commencement of the event.
+
+* **Initial Loadout & Modifiers:**
+    * `[Weapon]` Homemade Knife
+    * `[Buff]` +5% Baseline Movement Speed Increase
+* **Primary Objectives:**
+    1. Overwhelm active Facility Security personnel through sheer numbers or synchronized ambushes.
+    2. Cause widespread structural and operational disruption inside the facility.
+    3. Navigate to and escape through designated Chaos Insurgency extraction corridors.
+    4. Provide tactical assistance to Chaos Insurgency operatives during their infiltration.
+* **Operational Mechanics:**
+    * **Permadeath Asset Loss:** The Homemade Knife is permanently removed from the user's inventory upon death.
+    * **Faction Conversion:** Extracted Class-D personnel are immediately processed and converted into active Chaos Insurgency recruits.
+    * **Ticket Legacy:** Converted escapees inherit any remaining deployment tickets from the Chaos Insurgency pool.
+* **Mission Rewards:**
+    * Flat **+50% Experience Points (EXP)** payout during the active event.
+    * Substantial additional EXP bounty granted upon successful extraction to the surface.
+
+#### Ⅱ. FACILITY SECURITY DEPARTMENT
+The Facility Security Department is immediately deployed and authorized to utilize lethal force to suppress the internal uprising and stabilize Site Polaris before containment conditions reach critical failure.
+
+* **Authorized Equipment:**
+    * Standard-Issue Riot Suppression Loadout
+    * A.R.I.A Mobile GPS Tracking Unit
+* **Primary Objectives:**
+    1. Eliminate all hostile, non-compliant Class-D personnel.
+    2. Neutralize all invading Chaos Insurgency infiltrators.
+    3. Locate, suppress, and successfully recontain the escaped SCP entity.
+    4. Restore complete operational order to Site Polaris.
+* **Operational Mechanics:**
+    * The specialized A.R.I.A GPS tracking device links directly into the facility's active surveillance node, allowing security elements to pinpoint and navigate toward the escaped SCP efficiently.
+* **Victory Conditions:**
+    * The active SCP is successfully secured and returned to containment **AND** the internal riot is fully suppressed **AND** all Chaos Insurgency elements are eliminated.
+* **Mission Rewards:**
+    * Large standard paycheck payout.
+    * Significant bonus EXP dividend awarded specifically for a successful SCP recontainment.
+
+#### Ⅲ. CHAOS INSURGENCY
+Chaos Insurgency shock teams deploy externally from a concealed Arctic observation outpost linked directly to the lower sub-levels of Site Polaris via abandoned geothermal and utility maintenance tunnels.
+
+* **Deployment Configuration:**
+    * Operating under a strict, limited reinforcement pool scaling between **10 to 30 deployment tickets** depending on operational scaling.
+    * Each operative death consumes exactly one (1) deployment ticket.
+    * **Critical Threshold:** Once all deployment tickets are completely exhausted, Chaos operatives lose respawn capabilities. Converted Class-D personnel also lose respawn rights upon ticket depletion.
+* **Primary Objectives:**
+    1. Infiltrate Site Polaris via the subterranean maintenance tunnel access points.
+    2. Hack and compromise designated Foundation network sub-systems.
+    3. Trigger selective, secondary SCP containment failures to amplify tactical chaos.
+    4. Escort escaping Class-D personnel safely out of the hot zone to extraction points.
+    5. Convert successfully extracted Class-D personnel into active Insurgency combat assets.
+* **Mission Rewards:**
+    * Increased EXP yields for successful extraction assistance.
+    * Bonus operational rewards for successfully enabling or accelerating SCP breach events.
+    * Additional financial/resource payout proportional to the total count of successfully converted Class-D personnel.
