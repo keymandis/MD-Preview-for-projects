@@ -7,7 +7,8 @@
 ### GENERAL CONFIGURATION
 * **EVENT NAME:** A Chaotic Distraction
 * **CLASSIFICATION:** TYPE: MINOR – CONTAINMENT BREACH
-* **PARTICIPANTS:** * Uprising Class-D Personnel
+* **PARTICIPANTS:** 
+    * Uprising Class-D Personnel
     * Facility Security Department (FSD)
     * Chaos Insurgency (CI) Infiltration Cell *[Limited Deployment]*
 
@@ -16,12 +17,12 @@
 ### SPECIAL OPERATIONAL FEATURES
 
 #### 1. SCP BREACH EVENT
-* **Mechanism:** One (1) randomized anomalous entity (SCP classification) undergoes a containment failure and escapes its primary containment cell at the onset of the operation.
+* **Mechanism:** One (1) randomized anomalous entity (SCP classification Euclid+ and above) undergoes a containment failure and escapes its primary containment cell at the onset of the operation.
 * **Facility Security Directives:** Must prioritize tracking, isolation, and recontainment protocols for the active entity.
 * **Chaos Insurgency Directives:** Authorized to weaponize the breached anomaly or exploit the resulting tactical confusion to distract and divide Foundation security response forces.
 
 #### 2. A.R.I.A SURVEILLANCE SUPPORT
-* **Facility Security Rights:** Granted temporary, high-priority operational access to the Advanced Reconnaissance and Information Archive (A.R.I.A) surveillance matrix, enabling real-time SCP movement tracking.
+* **Facility Security Rights:** Granted temporary, high-priority operational access to the (A.R.I.A) surveillance matrix, enabling real-time SCP movement tracking.
 * **Vulnerability:** Chaos Insurgency operatives retain the ability to partially disable, distort, or blind these tracking vectors by successfully executing specialized hacking objectives throughout the facility.
 
 ---
@@ -68,7 +69,7 @@ The Facility Security Department is immediately deployed and authorized to utili
 * **Operational Mechanics:**
     * The specialized A.R.I.A GPS tracking device links directly into the facility's active surveillance node, allowing security elements to pinpoint and navigate toward the escaped SCP efficiently.
 * **Victory Conditions:**
-    * The active SCP is successfully secured and returned to containment **AND** the internal riot is fully suppressed **AND** all Chaos Insurgency elements are eliminated.
+    * The active SCP is successfully secured and returned to containment **AND** (the internal riot is fully suppressed **AND** all Chaos Insurgency elements are eliminated.)
 * **Mission Rewards:**
     * Large standard paycheck payout.
     * Significant bonus EXP dividend awarded specifically for a successful SCP recontainment.
