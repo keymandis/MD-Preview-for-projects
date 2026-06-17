@@ -39,6 +39,10 @@ The core operational focus of this engagement centers on **divided attention, im
 #### Ⅰ. CLASS-D PERSONNEL
 All Class-D sector containment doors are automatically unlocked at the exact commencement of the event.
 
+* **Assignment:**
+    * 60% of getting assigned, you spawn only `[ONCE]`, if player dies or joins mid match, player will be forced to spectate only.
+    * Player cap: infinite.
+    * Deployment tickets: 0
 * **Initial Loadout & Modifiers:**
     * `[Weapon]` Homemade Knife
     * `[Buff]` +5% Baseline Movement Speed Increase
@@ -50,22 +54,26 @@ All Class-D sector containment doors are automatically unlocked at the exact com
 * **Operational Mechanics:**
     * **Permadeath Asset Loss:** The Homemade Knife is permanently removed from the user's inventory upon death.
     * **Faction Conversion:** Extracted Class-D personnel are immediately processed and converted into active Chaos Insurgency recruits.
-    * **Ticket Legacy:** Converted escapees inherit any remaining deployment tickets from the Chaos Insurgency pool.
+    * **Ticket Legacy:** Converted escapees inherit any remaining deployment tickets from the Chaos Insurgency pool. Even if CI Slot is full, CD can break the limit.
 * **Mission Rewards:**
     * Flat **+50% Experience Points (EXP)** payout during the active event.
     * Substantial additional EXP bounty granted upon successful extraction to the surface.
 
-#### Ⅱ. FACILITY SECURITY DEPARTMENT
+#### Ⅱ. FACILITY SECURITY DEPARTMENT (SECURITY DETACHMENT)
 The Facility Security Department is immediately deployed and authorized to utilize lethal force to suppress the internal uprising and stabilize Site Polaris before containment conditions reach critical failure.
 
+* **Assignment:**  
+    * 30% of getting assigned, if a guard dies or a new player joins the game, the player must wait 90 seconds before deploying.
+    * Player cap: 10
+    * Deployment tickets: Unlimited
 * **Authorized Equipment:**
     * Standard-Issue Riot Suppression Loadout
     * A.R.I.A Mobile GPS Tracking Unit
 * **Primary Objectives:**
     1. Eliminate all hostile, non-compliant Class-D personnel.
     2. Neutralize all invading Chaos Insurgency infiltrators.
-    3. Locate, suppress, and successfully recontain the escaped SCP entity.
-    4. Restore complete operational order to Site Polaris.
+    3. Restore complete operational order to Site Polaris.
+    <!-- 3. Locate, suppress, and successfully recontain the escaped SCP entity. --> Foundation has realised facility guards have no chance against Euclid-Keter class SCP breaches.
 * **Operational Mechanics:**
     * The specialized A.R.I.A GPS tracking device links directly into the facility's active surveillance node, allowing security elements to pinpoint and navigate toward the escaped SCP efficiently.
 * **Victory Conditions:**
@@ -73,10 +81,19 @@ The Facility Security Department is immediately deployed and authorized to utili
 * **Mission Rewards:**
     * Large standard paycheck payout.
     * Significant bonus EXP dividend awarded specifically for a successful SCP recontainment.
+* **Tips and advice for guards facing breached SCP's:**
+    * SCP-173: Don't take your eyes away from it.
+    * SCP-096: Don't look at it. Always look at the floor if you hear his cries.
+    * SCP-323: Don't die to it for atleast 10-15 minutes, it will succumb to starvation.
+    * SCP-058: Once you are in its range, `[HIDE]`.
 
 #### Ⅲ. CHAOS INSURGENCY
 Chaos Insurgency shock teams deploy externally from a concealed Arctic observation outpost linked directly to the lower sub-levels of Site Polaris via abandoned geothermal and utility maintenance tunnels.
 
+* **Assignment:**
+    * 10% of getting assigned
+    * Player cap: 5
+    * Deployment Tickets: 10
 * **Deployment Configuration:**
     * Operating under a strict, limited reinforcement pool scaling between **10 to 30 deployment tickets** depending on operational scaling.
     * Each operative death consumes exactly one (1) deployment ticket.
