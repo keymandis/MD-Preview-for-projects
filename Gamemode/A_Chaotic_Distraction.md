@@ -36,6 +36,27 @@ The core operational focus of this engagement centers on **divided attention, im
 
 ### FACTION OBJECTIVES & MECHANICS
 
+#### WIN CONDITIONS, CASUALTY TRACKING & SCORE BANDS
+* **Faction win conditions (1 pt each):**
+    * **FSD**
+        * Eliminate all CI (ticket pool exhausted + all dead)
+        * Eliminate all alive CD
+        * Penalty: 150% of current FSD headcount in cumulative casualties (all causes) -> -1 pt
+    * **CI**
+        * Hack A.R.I.A successfully
+        * Rescue 15% of CD's round-start headcount (ceiled)
+        * Penalty: none
+    * **Class-D**
+        * No win condition — pure survival/chaos role.
+        * Converting to CI inherits CI's outcome; staying CD the full round grants no victory-tied reward.
+* **Casualty/headcount tracking for FSD:** per-player death counter, not a single global tally, so a leaving player's exact death contribution can be subtracted. The 150% threshold is recalculated against FSD's current roster size, not locked to round start.
+* **Anti-exploit rule (global, not FSD-specific):** any player who was assigned a team and leaves mid-round gets auto-assigned to CD/spectate on rejoin — no re-rolling through TeamChanceAssigner.
+* **Score bands (symmetric either direction):**
+    * 0:0 or 1:1 (0 diff) -> Inconclusive
+    * 1:0 or 2:1 (1 diff)-> Decisive Victory
+    * 2:2 (epic game) -> "CHAOTIC DISTRACTION"
+    * 2:0 (2 diff) -> Total Victory
+
 #### Ⅰ. CLASS-D PERSONNEL
 All Class-D sector containment doors are automatically unlocked at the exact commencement of the event.
 
